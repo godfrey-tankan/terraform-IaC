@@ -1,4 +1,4 @@
-# terraform-IaC-
+# terraform-IaC
 This repository contains infrastructure as code (IaC) templates written in Terraform to automate the provisioning, configuration, and management of cloud resources across various providers (AWS, Azure, GCP, etc.).
 
 # Terraform Infrastructure Repository
@@ -20,8 +20,8 @@ Before you begin, ensure you have the following tools installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/godfrey-tankan/terraform(IaC).git
-    cd terraform(IaC)
+    git clone https://github.com/godfrey-tankan/terraform-IaC.git
+    cd terraform-IaC
     ```
 
 2. Initialize Terraform in the desired environment:
